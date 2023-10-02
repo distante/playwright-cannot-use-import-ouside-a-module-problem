@@ -1,0 +1,7 @@
+{
+  "name": "playwright problem",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
